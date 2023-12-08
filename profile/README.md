@@ -12,7 +12,7 @@
 
 ## 🧑 Who developed this code?
 
-* Thomas Wood ([Fast Data Science](https://fastdatascience.com))
+* [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science](https://fastdatascience.com))
 * [Zairon Jacobs](https://zaironjacobs.com/)
 * [Fredy Gamez](https://github.com/orgs/whiteribbonalliance/people/fredygamez) (chatbot)
 * Amol Walunj
