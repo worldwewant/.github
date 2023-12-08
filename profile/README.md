@@ -14,3 +14,5 @@
 
 * Thomas Wood ([Fast Data Science](https://fastdatascience.com))
 * [Zairon Jacobs](https://zaironjacobs.com/)
+* [Fredy Gamez](https://github.com/orgs/whiteribbonalliance/people/fredygamez) (chatbot)
+* Amol Walunj
