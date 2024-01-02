@@ -21,4 +21,4 @@ This Github account contains all code to
 
 ## License
 
-MIT License
+[MIT License](https://raw.githubusercontent.com/whiteribbonalliance/.github/main/LICENSE)
