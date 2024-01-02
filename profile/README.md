@@ -1,5 +1,7 @@
 # White Ribbon Alliance code for NLU and dashboards
 
+This Github account contains all code to 
+
 ## Where are the dashboards?
 
 * https://whatwomenwant.whiteribbonalliance.org/
@@ -15,4 +17,8 @@
 * [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science](https://fastdatascience.com))
 * [Zairon Jacobs](https://zaironjacobs.com/)
 * [Fredy Gamez](https://github.com/orgs/whiteribbonalliance/people/fredygamez) (chatbot)
-* Amol Walunj
+* [Amol Walunj](https://github.com/Amoldwalunj)
+
+## License
+
+MIT License
