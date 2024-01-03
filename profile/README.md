@@ -1,25 +1,31 @@
 # White Ribbon Alliance code for NLU and dashboards
 
-This Github account contains all code to train and deploy dashboards.
+This GitHub account contains all code to train and deploy dashboards.
 
 ## Where are the dashboards?
 
-* https://whatwomenwant.whiteribbonalliance.org/
-* https://midwivesvoices.whiteribbonalliance.org/
-* https://wypw.1point8b.org/ - PMNCH
+* https://whatwomenwant.whiteribbonalliance.org
+* https://midwivesvoices.whiteribbonalliance.org
+* https://wypw.1point8b.org - PMNCH
 * https://explore.whiteribbonalliance.org/giz
 * https://explore.whiteribbonalliance.org/wwwpakistan
 * https://explore.whiteribbonalliance.org/healthwellbeing
-* https://admin.whiteribbonalliance.org/ (admin dashboard)
+* https://admin.whiteribbonalliance.org (Admin Dashboard)
 
 ## How to deploy a dashboard?
 
-In each repo there is documentation included for deploying the dashboard to Azure Web Apps or Google App Engine, or you can deploy to any other cloud provider that supports running Node.js and Python.
+In each repo there is documentation included for deploying the dashboard to Azure Web Apps or Google App Engine, or you
+can deploy to any other cloud provider that supports running Node.js and Python.
 
-1. Get your campaign or survey responses and categorize them using [the NLU model](https://github.com/whiteribbonalliance/womenshealthandwellbeing_public).
-2. To create a new campaign in the back-end, read the section `CSV file` and `How to create a new campaign` in [the API repo](https://github.com/whiteribbonalliance/dashboard-api). You will need to store your text in Azure or Google Blob Storage.
+1. Get your campaign or survey responses and categorize them
+   using [the NLU model](https://github.com/whiteribbonalliance/womenshealthandwellbeing_public).
+2. To create a new campaign in the back-end, read the section `CSV file` and `How to create a new campaign`
+   in [the API repo](https://github.com/whiteribbonalliance/dashboard-api). You will need to store your text in Azure
+   Storage or Google Blob Storage.
 3. Deploy an API server using [the API repo](https://github.com/whiteribbonalliance/dashboard-api).
 4. Deploy a front end server using [the front end repo](https://github.com/whiteribbonalliance/dashboard-front).
+5. You can also deploy an admin dashboard for downloading campaigns data
+   using [the admin dashboard repo](https://github.com/whiteribbonalliance/admindashboard).
 
 ## 🧑 Who developed this code?
 
