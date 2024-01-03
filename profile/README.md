@@ -14,10 +14,10 @@ This Github account contains all code to train and deploy dashboards.
 
 ## How to deploy a dashboard?
 
-You can deploy to Azure, Google App Engine, or AWS, or another cloud provider.
+In each repo there is documentation included for deploying the dashboard to Azure Web Apps or Google App Engine, or you can deploy to any other cloud provider that supports running Node.js and Python.
 
 1. Get your campaign or survey responses and categorize them using [the NLU model](https://github.com/whiteribbonalliance/womenshealthandwellbeing_public).
-2. Store your text in Azure or Google Blob Storage
+2. To create a new campaign in the back-end, read the section CSV file and How to create a new campaign in the API repo. You will need to store your text in Azure or Google Blob Storage
 3. Deploy an API server using [the API repo](https://github.com/whiteribbonalliance/dashboard-api)
 4. Deploy a front end server using [the front end repo](https://github.com/whiteribbonalliance/dashboard-front)
 
