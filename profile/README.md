@@ -25,7 +25,7 @@ can deploy to any other cloud provider that supports running Node.js and Python.
 3. Deploy an API server using [the API repo](https://github.com/whiteribbonalliance/dashboard-api).
 4. Deploy a front end server using [the front end repo](https://github.com/whiteribbonalliance/dashboard-front).
 5. You can also deploy an admin dashboard for downloading campaigns data
-   using [the admin dashboard repo](https://github.com/whiteribbonalliance/admindashboard).
+   using [the admin dashboard repo](https://github.com/whiteribbonalliance/dashboard-admin-front).
 
 ## 🧑 Who developed this code?
 
