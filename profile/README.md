@@ -1,4 +1,4 @@
-# White Ribbon Alliance code for NLU and dashboards
+# World We Want code for NLU and dashboards
 
 This GitHub account contains all code to train and deploy dashboards.
 
