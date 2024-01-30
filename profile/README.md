@@ -14,21 +14,71 @@ This GitHub account contains all code to train and deploy dashboards.
 
 ## Branding guidelines
 
+
 Colors are RGB, (hex#):
 
-Dark blue: 33, 47, 81 (#212F51)
+### Dark blue
 
-Med blue: 58,114,149 (#3A7295)
+![212f51](https://raw.githubusercontent.com/worldwewant/.github/main/colours/212f51.svg)
+```
+212f51
+```
+```
+rgb(33, 47, 81)
+```
 
-Dk Red: 210, 12, 36 (#D20C24)
+### Med blue
 
-Green: 71, 157, 116 (#479D74)
+![3a7295](https://raw.githubusercontent.com/worldwewant/.github/main/colours/3a7295.svg)
+```
+3a7295
+```
+```
+rgb(58, 114, 149)
+```
 
-Dk Yellow: 249, 192, 21 (#F9C018)
+### Dk Red
 
-Gray: 195, 197, 190 (#C3C5BE)
+![d20c24](https://raw.githubusercontent.com/worldwewant/.github/main/colours/d20c24.svg)
+```
+d20c24
+```
+```
+rgb(210, 12, 36)
+```
 
-Fonts:
+
+### Green
+
+![479d74](https://raw.githubusercontent.com/worldwewant/.github/main/colours/479d74.svg)
+```
+479d74
+```
+```
+rgb(71, 157, 116)
+```
+
+### Dk Yellow
+
+![f9c018](https://raw.githubusercontent.com/worldwewant/.github/main/colours/f9c018.svg)
+```
+f9c018
+```
+```
+rgb(249, 192, 24)
+```
+
+### Gray
+
+![c3c5be](https://raw.githubusercontent.com/worldwewant/.github/main/colours/c3c5be.svg)
+```
+c3c5be
+```
+```
+rgb(195, 197, 190)
+```
+
+### Fonts
 
 Halyard Display on the dev site at the moment for all heads and body, but we often use Proxima Nova family in WRA projects, so may shift to that. Both are similar, clean sans fonts.
 
