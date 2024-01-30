@@ -27,7 +27,10 @@ Green: 71, 157, 116 (#479D74)
 Dk Yellow: 249, 192, 21 (#F9C018)
 
 Gray: 195, 197, 190 (#C3C5BE)
- 
+
+Fonts:
+
+Halyard Display on the dev site at the moment for all heads and body, but we often use Proxima Nova family in WRA projects, so may shift to that. Both are similar, clean sans fonts.
 
 ## How to deploy a dashboard?
 
