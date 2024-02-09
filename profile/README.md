@@ -1,6 +1,8 @@
 # World We Want code for NLU and dashboards
 
-This GitHub account contains all code to train and deploy dashboards.
+This GitHub account contains all code to train and deploy dashboards for the World We Want Project.
+
+More info: https://worldwewantproject.com
 
 ## Where are the dashboards?
 
@@ -100,9 +102,9 @@ rgb(195, 197, 190)
 
 ### Fonts
 
-Halyard Display on the dev site at the moment for all heads and body, but we often use Proxima Nova family in WRA projects, so may shift to that. Both are similar, clean sans fonts.
+Halyard Display on the dev site at the moment for all heads and body, but we often use Proxima Nova family, so may shift to that. Both are similar, clean sans fonts.
 
 
 ## License
 
-[MIT License](https://raw.githubusercontent.com/whiteribbonalliance/.github/main/LICENSE)
+[MIT License](https://raw.githubusercontent.com/worldwewant/.github/main/LICENSE)
