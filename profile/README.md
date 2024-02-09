@@ -4,13 +4,9 @@ This GitHub account contains all code to train and deploy dashboards.
 
 ## Where are the dashboards?
 
-* https://whatwomenwant.whiteribbonalliance.org
-* https://midwivesvoices.whiteribbonalliance.org
+* https://exchange.worldwewantproject.org/en
 * https://wypw.1point8b.org - PMNCH
-* https://explore.whiteribbonalliance.org/giz
-* https://explore.whiteribbonalliance.org/wwwpakistan
-* https://explore.whiteribbonalliance.org/healthwellbeing
-* https://admin.whiteribbonalliance.org (Admin Dashboard)
+* https://admin.worldwewantproject.org (Admin Dashboard)
 
 
 ## How to deploy a dashboard?
